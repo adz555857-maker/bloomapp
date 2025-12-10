@@ -1,0 +1,7 @@
+{
+  "name": "Bloom - Habit Garden",
+  "description": "A gamified habit tracker where your consistency grows a digital plant. Nurture your habits to nurture your garden.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
