@@ -1,4 +1,3 @@
-
 import React, { useState, useRef } from 'react';
 import { Camera, Sparkles, Check, Utensils, X, Image as ImageIcon } from 'lucide-react';
 import { estimateMetric, analyzeImage } from '../services/geminiService';

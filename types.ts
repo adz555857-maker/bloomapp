@@ -1,5 +1,3 @@
-
-
 export type HabitType = 'boolean' | 'numeric';
 
 export interface Habit {

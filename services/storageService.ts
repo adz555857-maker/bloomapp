@@ -1,4 +1,3 @@
-
 import { UserState, PlantStage, PlantHealth, FriendProfile, Party } from '../types';
 
 const STORAGE_KEY = 'bloom_app_data';

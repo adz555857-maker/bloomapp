@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { Check, Trash2, Plus, Flame, Trophy, X, ChevronRight, Activity, Droplets, BookOpen, AlertTriangle } from 'lucide-react';
 import { Habit, HabitType } from '../types';

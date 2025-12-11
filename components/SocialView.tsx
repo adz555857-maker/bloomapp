@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { User, Copy, Check, Search, Plus, X, Heart, Users, Sprout, Crown, ArrowRight } from 'lucide-react';
 import { FriendProfile, Party } from '../types';

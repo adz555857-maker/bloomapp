@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { Heart, Coffee, Star, Gift, Check, Sparkles } from 'lucide-react';
 

@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { PlantStage, PlantHealth } from '../types';
 
